@@ -2,3 +2,5 @@ name = "sub-worker"
 main = "_worker.js"
 compatibility_date = "2025-07-07"
 keep_vars = true
+# wrangler.toml
+name = 'rin-server'
